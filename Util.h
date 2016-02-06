@@ -8,7 +8,7 @@
 #include <opencv2/opencv.hpp>
 #include <pcl/io/openni2_grabber.h>
 
-Mat cvtOni2Ocv()
+Mat cvtOni2Ocv();
 
 
 #endif
